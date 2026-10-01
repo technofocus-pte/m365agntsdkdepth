@@ -1,4 +1,4 @@
-# Lab 8: Transform after-sales repair operations at Zava Retail with an AI-powered declarative agent
+# Lab 3: Transform after-sales repair operations at Zava Retail with an AI-powered declarative agent
 
 ## Objective
 
