@@ -1,5 +1,7 @@
 # Lab 3: Transform after-sales repair operations at Zava Retail with an AI-powered declarative agent
 
+Estimated duration: 60 mins
+
 ## Objective
 
 In this lab, you will build a declarative agent with a TypeSpec definition using Microsoft 365 Agents Toolkit. You will create an agent called RepairServiceAgent, which interacts with repairs data via an existing API service to help users manage car repair records.
