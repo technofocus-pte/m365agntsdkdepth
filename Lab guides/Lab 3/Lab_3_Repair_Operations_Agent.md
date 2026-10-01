@@ -1,6 +1,6 @@
 # Lab 3: Transform after-sales repair operations at Zava Retail with an AI-powered declarative agent
 
-Estimated duration: 60 mins
+**Estimated time: 60 mins**
 
 ## Objective
 
