@@ -1,4 +1,4 @@
-# Lab 1: Build an instructions-based geo locator game agent using Microsoft 365 Agents Toolkit
+# Lab 1: Build an instruction based interactive game agent using Microsoft 365 Agents Toolkit​
 
 **Estimated time:** 30 minutes
 
