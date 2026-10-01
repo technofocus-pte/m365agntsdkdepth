@@ -1,6 +1,6 @@
-# Lab 11: Build and deploy a project status assistant with the Microsoft Teams SDK
+# Lab 2: Build and deploy a project status assistant with the Microsoft Teams SDK
 
-**Estimated time:** 45–50 minutes
+**Estimated time:** 90 minutes
 
 ## Lab scenario
 
